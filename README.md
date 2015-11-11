@@ -1,4 +1,4 @@
-# Reasume/Portfolie website
+# website for Lindis Shop
 
 
 # Name: Lindis Bjornerem
